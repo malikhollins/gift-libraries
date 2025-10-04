@@ -3,8 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-# GiftingApp files
-migrate/
+
+# project files
+nuget.config
 
 # User-specific files
 *.rsuser

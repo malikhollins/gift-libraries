@@ -7,6 +7,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageProjectUrl>https://github.com/malikhollins/gift-libraries</PackageProjectUrl>
     <RepositoryUrl>https://github.com/malikhollins/gift-libraries</RepositoryUrl>
+    <PackageId>mhollins.$(AssemblyName)</PackageId>
   </PropertyGroup>
 
 </Project>

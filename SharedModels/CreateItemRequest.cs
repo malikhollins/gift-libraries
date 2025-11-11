@@ -2,6 +2,7 @@
 {
     public class CreateItemRequest
     {
+        public int OwnerId { get; set; }
         public int ListId { get; set; }
         public string? Name { get; set; }
         public string? Description { get; set; }

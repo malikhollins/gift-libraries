@@ -1,6 +1,6 @@
 ﻿namespace SharedModels
 {
-    public class UpdateFavoriteItem
+    public class UpdateFavoriteItemRequest
     {
         public int UserId { get; set; }
 

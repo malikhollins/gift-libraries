@@ -1,6 +1,6 @@
 ﻿namespace SharedModels
 {
-    public class UpdateBuyerInListRequest
+    public class UpdateBuyerInItemRequest
     {
         public int ItemId { get; set; }
 

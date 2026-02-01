@@ -6,6 +6,6 @@
 
         public int ListId { get; set; }
 
-        public int BuyerId { get; set; } 
+        public int? BuyerId { get; set; } 
     }
 }
